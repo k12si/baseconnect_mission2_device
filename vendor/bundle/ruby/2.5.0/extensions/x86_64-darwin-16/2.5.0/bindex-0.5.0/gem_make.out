@@ -1,0 +1,15 @@
+current directory: /Users/nishimurakakushin/BaseConnect/BootCamp/Rails/Rails_tutorial/environment/mission2_device_app/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+/usr/local/opt/ruby/bin/ruby -r ./siteconf20181005-79755-1ke75e1.rb extconf.rb
+creating Makefile
+
+current directory: /Users/nishimurakakushin/BaseConnect/BootCamp/Rails/Rails_tutorial/environment/mission2_device_app/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/nishimurakakushin/BaseConnect/BootCamp/Rails/Rails_tutorial/environment/mission2_device_app/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/nishimurakakushin/BaseConnect/BootCamp/Rails/Rails_tutorial/environment/mission2_device_app/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20181005-79755-1bgbs9f/bindex
